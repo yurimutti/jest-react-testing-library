@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --orange: #f47521;
+  --black: #000000;
+  --white: #ffffff
+}
+
+body,input,textarea,select {
+  font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}  
+
+img {
+  max-width: 100%;
+  display: block;
+}
